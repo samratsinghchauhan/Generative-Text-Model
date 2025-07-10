@@ -19,7 +19,7 @@ A lightweight desktop application built with Tkinter and powered by OpenRouter's
 <pre> pip install -r requirements.txt </pre>
 
 2. Setup your .env file
-Create a <pre> .env </pre> file in the root directory and add your OpenRouter API key:
+Create a .env file in the root directory and add your OpenRouter API key:
 <pre> OPENROUTER_API_KEY=your_api_key_here </pre>
 
 3. Run the App
